@@ -199,4 +199,4 @@ This repository serves as the official landing page for HEIC to JPEG. The softwa
 **Get the most recent version of HEIC to JPEG today!**
 
 ---
-**Last updated:** 2026-11-13 20:14:36 UTC
+**Last updated:** 2026-11-14 01:12:01 UTC
